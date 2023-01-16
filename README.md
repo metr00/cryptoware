@@ -4,4 +4,4 @@ it will also decrypt all the files with the key
 
 uses crytography library AES cipher and 128 bit key
 
-basic use: ./cryptoware [targetfolder] --encrypt
+basic use: `./cryptoware [targetfolder] --encrypt`
