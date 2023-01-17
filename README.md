@@ -4,6 +4,6 @@ it will also decrypt all the files with the key
 
 uses crytography library AES cipher and 128 bit key
 
-`./cryptoware --help`
+`./cryptoware2.py --help`
 
-`./cryptoware [targetfolder] --encrypt`
+`./cryptoware2.py [targetfolder] --encrypt`
